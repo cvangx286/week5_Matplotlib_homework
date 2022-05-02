@@ -8,7 +8,7 @@
 ![Deliverable_1.png](resources/Deliverable_1.png)
 
 
-![Pyber_fare_summary.png](resources/Deliverable_1.png)
+![PyBer_fare_summary.png](resources/PyBer_fare_summary.png)
 
 
 ## Summary: 
