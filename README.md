@@ -8,10 +8,10 @@
     to rural and suburban cities. The higher usage in urban cities have a lower average fare per ride but 
     demands more drivers. The higher demand in drivers will lower the average fare per driver compared to rural and suburban cities. 
 
-![Deliverable_1.png](resources/Deliverable_1.png)
+![Deliverable_1.png](analysis/Deliverable_1.png)
 
 
-![PyBer_fare_summary.png](resources/PyBer_fare_summary.png)
+![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
 
 
 ## Summary: 
